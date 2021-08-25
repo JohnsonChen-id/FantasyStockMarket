@@ -1,0 +1,50 @@
+{
+    "password": 123,
+    "market stock list": [
+        {
+            "price": 20,
+            "change": 0.04,
+            "name": "ios",
+            "reputation": 4
+        },
+        {
+            "price": 15,
+            "change": -0.06,
+            "name": "tisla",
+            "reputation": 5
+        },
+        {
+            "price": 15,
+            "change": 0.26,
+            "name": "tacoBall",
+            "reputation": 1
+        },
+        {
+            "price": 10,
+            "change": 0.019999999999999997,
+            "name": "feetLocker",
+            "reputation": 3
+        }
+    ],
+    "balance": 10000,
+    "hold stock list": [
+        {
+            "Stock": {
+                "price": 20,
+                "change": 0.2,
+                "name": "ios",
+                "reputation": 4
+            },
+            "hold amount": 300
+        },
+        {
+            "Stock": {
+                "price": 10,
+                "change": -0.18,
+                "name": "feetLocker",
+                "reputation": 3
+            },
+            "hold amount": 200
+        }
+    ]
+}

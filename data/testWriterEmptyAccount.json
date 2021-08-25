@@ -1,0 +1,31 @@
+{
+    "password": 123,
+    "market stock list": [
+        {
+            "price": 20,
+            "change": 0.36000000000000004,
+            "name": "ios",
+            "reputation": 4
+        },
+        {
+            "price": 15,
+            "change": 0.020000000000000004,
+            "name": "tisla",
+            "reputation": 5
+        },
+        {
+            "price": 15,
+            "change": -0.14,
+            "name": "tacoBall",
+            "reputation": 1
+        },
+        {
+            "price": 10,
+            "change": 0.3,
+            "name": "feetLocker",
+            "reputation": 3
+        }
+    ],
+    "balance": 10000,
+    "hold stock list": []
+}
