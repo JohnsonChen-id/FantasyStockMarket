@@ -38,3 +38,5 @@ If I had more time to work on this project, one thing I would refactor is to int
 manager to hold the stocks for a given user and call it inside the main account so that the Account class does not have
 to contain this function, which although somehow fits in the scope of Account but can be split out to make the design 
 higher cohesive. 
+
+**This repository is NOT permitted for use in any academic setting for a project**
