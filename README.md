@@ -1,15 +1,14 @@
 # Fantasy Stock Market
 
-## Created by Johnson Chen
+## Created by Johnson Chen for "CPSC 210, Software Construction"
 
-An **idealized** stock market game, where user could buy in & sell different stocks, try to become the next millionaire,
+An **idealized** stock market game using Java and IntelliJ IDEA, where user could buy in & sell different stocks, try to become the next millionaire,
 well, on *this* PC only. This is created as a mini game all can play and enjoy the bid of luck!
 
 This project is out of specific interest to me as stock, just like the bank, and many other systems we human created for 
 the purpose of capital-raising from the public to where capital is needed the most, and the rate of return 
 balanced with the risk. By building the game from ground up (which is definitely not simulating the reality), 
 this could earn me more insight into the world of chances and challenges.
-
 
 
 
@@ -30,13 +29,7 @@ Where a given stock's price could vary according to：
 
 
 
-## Phase 4: Task 2
-"Option 3: make appropriate use of the Map interface somewhere in your code"
-is implemented in Account class for the use of representing a list of stocks a user holds, as well as the amount 
-holding.
-
-
-## Phase 4: Task 3
+## Sidenote
 The model classes, which consists Account, StockList and Stock class has a triangular relationship, with Account having 
 a hashMap consisting a set of stocks, and StockList also holds a list of stocks, while Account as the overlord, have an 
 aggression relationship with StockList. 
